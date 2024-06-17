@@ -5,3 +5,13 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.3.0
+mysql:8.0.23
+mysql
+minio/minio
+postgres
+redis
+bitnami/etcd
+nacos/nacos-server
+rabbitmq
+tdengine/tdengine:3.0.4.2
+emqx/emqx:5.1.0
