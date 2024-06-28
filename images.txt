@@ -16,3 +16,4 @@ nacos/nacos-server
 rabbitmq
 tdengine/tdengine:3.0.4.2
 emqx/emqx:5.1.0
+skydive/skydive
