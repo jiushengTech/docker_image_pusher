@@ -3,3 +3,17 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+mysql
+mysql:8.2.0
+mysql:8.3.0
+mysql:8.0.23
+minio/minio
+postgres
+redis
+bitnami/etcd
+nacos/nacos-server
+rabbitmq
+tdengine/tdengine:3.0.4.2
+emqx/emqx:5.1.0
+skydive/skydive
+1panel/openresty:1.21.4.3-3-3-focal
