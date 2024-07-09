@@ -10,6 +10,7 @@ mysql:8.0.23
 minio/minio
 postgres
 redis
+redis:7.2.5
 bitnami/etcd
 nacos/nacos-server
 rabbitmq
