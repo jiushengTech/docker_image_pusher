@@ -18,3 +18,4 @@ tdengine/tdengine:3.0.4.2
 emqx/emqx:5.1.0
 skydive/skydive
 1panel/openresty:1.21.4.3-3-3-focal
+go golang:1.22.3
